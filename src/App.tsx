@@ -50,7 +50,7 @@ export const App = () => {
           <Typography.Text>
             «Вот бы управлять деньгами учили с детства», — подумали мы и сделали
             бесплатную Детскую карту. С ней ребёнок может получать кэшбэк
-            реальными деньгами — до 2000 ₽ каждый месяц.
+            реальными деньгами.
           </Typography.Text>
 
           <Gap size={16} />
@@ -88,7 +88,9 @@ export const App = () => {
               width={50}
               style={{ objectPosition: "0 -5px" }}
             />
-            <Typography.Text>Кэшбэк ребёнку до 3000 ₽ каждый месяц</Typography.Text>
+            <Typography.Text>
+              Кэшбэк ребёнку до 3000 ₽ каждый месяц
+            </Typography.Text>
           </div>
 
           <Gap size={8} />
